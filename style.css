@@ -1,0 +1,44 @@
+body
+{
+    background-size: cover;
+
+}
+
+.heading
+{
+    color:black;
+    background-color: red;
+    box-shadow: green;
+    width: 100%;
+    margin: 0;
+    line-height: 3;
+}
+
+
+
+
+.copy_right_footer
+{
+    color: cadetblue;
+    background-color: wheat;
+    height: 30px;
+    width:100%;
+    line-height: 2;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    bottom: 0;
+    font-style: italic;
+    text-align: center;
+    position: fixed;
+}
+
+canvas
+{
+    border:2px solid white;
+    box-shadow: 5px 5px 5px grey;
+    margin-top: 130px;
+    border-radius: 10px;
+}
+
+
+
